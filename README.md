@@ -48,15 +48,15 @@ My projects span power electronics, FPGA signal processing, IoT systems, and ful
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎵 FPGA Audio Failure Analyzer</h3>
-      <a href="https://github.com/GavinnnTann/FPGA-Audio-Failure-Analyzer">FPGA-Audio-Failure-Analyzer</a>
+      <h3>🎵 CNN FPGA Audio Failure Analyzer</h3>
+      <a href="https://github.com/GavinnnTann/CNN-FPGA-Audio-Failure-Analyzer">FPGA-Audio-Failure-Analyzer</a>
       <br><br>
       <img src="https://img.shields.io/badge/Verilog-FF6B6B?style=flat"/>
       <img src="https://img.shields.io/badge/Vivado-FF0000?style=flat&logo=xilinx&logoColor=white"/>
       <img src="https://img.shields.io/badge/hls4ml-4B8BBE?style=flat"/>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
       <br><br>
-      <em>Real-time acoustic anomaly detection for 3D printers. Full on-FPGA pipeline — I2S → 512-pt FFT → 64-bin spectrogram → 15-layer CNN autoencoder inference at 1.8ms latency, 20 sweeps/sec on Artix-7 35T.</em>
+      <em>Real-time acoustic anomaly detection for 3D printers. Full on-FPGA pipeline — I2S → 512-pt FFT → 64-bin spectrogram → 15-layer CNN autoencoder inference at 1.8ms latency, Embedded CNN on Artix-7 35T.</em>
     </td>
     <td width="50%" valign="top">
       <h3>📍 ArgusLink</h3>

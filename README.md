@@ -7,6 +7,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gavinnn--tan-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/gavinnn-tan)
 [![GitHub](https://img.shields.io/badge/GitHub-GavinnnTann-181717?style=flat&logo=github)](https://github.com/GavinnnTann)
 
+![Profile Views](https://komarev.com/ghpvc/?username=GavinnnTann&color=58A6FF&style=flat)
+
 </div>
 
 ---

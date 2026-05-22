@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi%2C+I+am+Gavin+%F0%9F%91%8B;Product+Developer;Electronics+Engineer;Hardware+%C3%97+Software+%C3%97+Data;Systems+Designer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi%2C+I+am+Gavin+%F0%9F%91%8B;Product+Developer;Electrical+&+Electronics+Engineer;Hardware+%C3%97+Software+%C3%97+Data;Systems+Designer)](https://git.io/typing-svg)
 
 **Engineering Product Development · SUTD · Singapore**
 

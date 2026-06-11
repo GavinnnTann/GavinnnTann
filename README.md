@@ -76,6 +76,16 @@ My projects span power electronics, FPGA signal processing, IoT systems, and ful
 
 ---
 
+## 📄 Publications
+
+**Programmable Anomaly Detector System: An Embedded, Real-Time IoT Acoustic Fault Detection using Hybrid FFT, CNN Autoencoder on a Resource Constrained FPGA**
+
+Tee Hui Teo, **Gavin Tan**, Wesley Teo, Haneeshwar Reddy, Keming Su · SUTD &nbsp;|&nbsp; Eric Aleong · University of Waterloo
+
+[![SSRN](https://img.shields.io/badge/SSRN-6801741-2D6DA5?style=flat&logo=academia&logoColor=white)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6801741)
+
+---
+
 ## 🛠️ Tech Stack
 
 **Languages**

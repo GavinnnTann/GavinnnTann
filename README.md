@@ -112,6 +112,27 @@ My projects span power electronics, FPGA signal processing, IoT systems, and ful
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=GavinnnTann&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=8b949e&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GavinnnTann&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8b949e&langs_count=6" />
+
+</div>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GavinnnTann/GavinnnTann/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GavinnnTann/GavinnnTann/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/GavinnnTann/GavinnnTann/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
 ## 🎓 Education
 
 **B.Eng Engineering Product Development (Electrical Engineering)** — SUTD · 2023–2027

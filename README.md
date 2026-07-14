@@ -126,8 +126,7 @@ Tee Hui Teo, **Gavin Tan**, Wesley Teo, Haneeshwar Reddy, Keming Su · SUTD &nbs
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=GavinnnTann&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=8b949e&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GavinnnTann&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8b949e&langs_count=6&hide=Ada" />
+![GitLevel](https://gitlevel.vercel.app/api/card?username=gavinnntann&theme=volt)
 
 </div>
 

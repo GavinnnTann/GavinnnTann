@@ -14,7 +14,11 @@
 ---
 
 ## 👋 About Me
+<div align="center">
 
+![GitLevel](https://gitlevel.vercel.app/api/card?username=gavinnntann&theme=volt)
+
+<div align="left">
 I started in electronics before I ever wrote a line of code. My foundations were built at Ngee Ann Polytechnic studying Aerospace Electronics, where I developed a grounding in avionics instrumentation and embedded systems. That led to three years as an electronics engineer at Flexlink Engineers — doing failure analysis on embedded systems, authoring technical manuals in projects, and overseeing military-grade product lifecycles from initial concept through production.
 
 Coming into SUTD, I brought that industry background into academic projects.
@@ -123,10 +127,6 @@ Tee Hui Teo, **Gavin Tan**, Wesley Teo, Haneeshwar Reddy, Keming Su · SUTD &nbs
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-
-![GitLevel](https://gitlevel.vercel.app/api/card?username=gavinnntann&theme=volt)
 
 </div>
 
